@@ -58,6 +58,11 @@ img {
     border-radius: 5px;
 }
 
+.s-m:active, .s-m:hover {
+    background-color: hsl(75, 94%, 57%);
+    cursor: pointer;
+}
+
 .attribution {
     position: fixed;
     bottom: 2%;
